@@ -6,3 +6,4 @@ Asentaminen
 Jatkokehitys / tehtävänanto
 - muokkaa front-end-koodia siten että kaikki TODO:t tulee täytetyksi
 - lisätehtävä: muokkaa ulkoasua paremman näköiseksi
+  
